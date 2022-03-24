@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "html-pdf": "^3.0.1",
+    "image-to-base64": "^2.2.0",
     "nodemon": "^2.0.15"
   }
 }

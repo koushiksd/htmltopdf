@@ -3,6 +3,7 @@ let data1={
         "invoiceHeader": "Invoice Invoicing Sample Manish",
         "address": "Atta Market, Noida",
         "phoneNumber": "999999999",
+        "qrlink":'https://i.ibb.co/s2n2Q9V/testing.png',
         "gstNumber": "09ABHCS0857N1ZP ",
         "headerLastLine": "Tax Invoice: Original for Recipient"
     },
@@ -10,6 +11,7 @@ let data1={
         "billTo": "Manish Shukla",
         "shipTo": "Manish Shukla",
         "phoneNumber": "Hdbsbdbdb",
+        
         "GSTIN": "XXXXXYY",
         "invoiceNumber": "GJu3cBWUYgBur0F8RAcd",
         "invoiceDate": "Mon, 21 Mar 2022 17:44:44 GMT",
@@ -170,6 +172,7 @@ let data2={
         "invoiceHeader": "Invoice Invoicing Sample Manish",
         "address": "Atta Market, Noida",
         "phoneNumber": "999999999",
+        "qrlink":'https://i.ibb.co/s2n2Q9V/testing.png',
         "gstNumber": "09ABHCS0857N1ZP ",
         "headerLastLine": "Tax Invoice: Original for Recipient"
     },
